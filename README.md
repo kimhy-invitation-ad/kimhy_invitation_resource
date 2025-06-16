@@ -1,0 +1,1 @@
+# kimhy_invitation_resource
